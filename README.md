@@ -5,7 +5,7 @@ Visitekaartje van Daan Korver
 
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
-http://www.daan.student.fdnd.nl
+[Live versie](http://www.daan.student.fdnd.nl)
 <!-- Voeg een mooie poster visual toe 📸 -->
 ![visitekaartje](assets/card.png)
 
