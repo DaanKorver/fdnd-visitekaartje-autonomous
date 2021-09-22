@@ -95,16 +95,16 @@ section.card__mid {
   justify-content: center;
 }
 
-section.card__icons {
+div.card__icons {
   display: flex;
   align-items: center;
 }
 
-section.card__icons img {
+div.card__icons img {
   width: 50px;
 }
 
-section.card__bottom {
+div.card__bottom {
   display: flex;
   justify-content: space-between;
 }
@@ -120,15 +120,15 @@ div.stripe {
   flex-shrink: 0;
 }
 
-section.signature {
+div.signature {
   padding: 1em 2em;
 }
 
-section.signature > .signature__title {
+div.signature > .signature__title {
   margin-bottom: .5em;
 }
 
-section.signature > .signature__sign {
+div.signature > .signature__sign {
   background: #fff;
   display: inline-block;
   color: black;
