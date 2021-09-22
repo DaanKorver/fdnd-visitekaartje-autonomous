@@ -1,10 +1,13 @@
 > Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Titel
+Visitekaartje van Daan Korver
 
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
+http://www.daan.student.fdnd.nl
 <!-- Voeg een mooie poster visual toe 📸 -->
+![visitekaartje](assets/card.png)
 
 ## Inhoudsopgave
 
