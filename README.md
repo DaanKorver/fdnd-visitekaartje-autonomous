@@ -5,7 +5,7 @@ Visitekaartje van Daan Korver
 
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
-Voor de introductie van fdnd kregen wij als klas de opdracht om allemaal individueel een visitekaartje te maken.
+Voor de introductie van fdnd kregen wij als klas de opdracht om allemaal individueel een visitekaartje te maken.  
 [Live versie](http://www.daan.student.fdnd.nl)
 <!-- Voeg een mooie poster visual toe 📸 -->
 ![visitekaartje](assets/card.png)
