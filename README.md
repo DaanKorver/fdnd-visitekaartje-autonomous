@@ -5,6 +5,7 @@ Visitekaartje van Daan Korver
 
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
+Voor de introductie van fdnd kregen wij als klas de opdracht om allemaal individueel een visitekaartje te maken.  
 [Live versie](http://www.daan.student.fdnd.nl)
 <!-- Voeg een mooie poster visual toe 📸 -->
 ![visitekaartje](assets/card.png)
@@ -22,10 +23,24 @@ Visitekaartje van Daan Korver
 ## Kenmerken
 
 ## Installatie
+Installatie via HTTPS  
+```
+git clone https://github.com/DaanKorver/fdnd-visitekaartje-autonomous.git
+cd fdnd-visite-kaartje-autonomous
+```
+En via SSH
+```
+git clone git@github.com:DaanKorver/fdnd-visitekaartje-autonomous.git
+cd fdnd-visite-kaartje-autonomous
+```
+Na het clonen openen met een liveserver.
 
 ## Gebruik
 
+n.v.t.
+
 ## Bronnen
+Het brein van Daan - Daan 2021
 
 ## Licentie
 
