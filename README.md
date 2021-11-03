@@ -7,8 +7,8 @@
 ![visitekaartje](assets/card.png)
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
-Voor de introductie van fdnd kregen wij als klas de opdracht om allemaal individueel een visitekaartje te maken. Ik heb gekozen voor een soort van credit card design omdat ik het simpel wou houden maar ook netjes als een soort kaartje. 
-[Live versie](http://www.daan.student.fdnd.nl)
+Voor de introductie van fdnd kregen wij als klas de opdracht om allemaal individueel een visitekaartje te maken. Ik heb gekozen voor een soort van credit card design omdat ik het simpel wou houden maar ook netjes als een soort kaartje.   
+[🌍 Live versie](http://www.daan.student.fdnd.nl)
 <!-- Voeg een mooie poster visual toe 📸 -->
 
 ## Inhoudsopgave
