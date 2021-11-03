@@ -1,44 +1,28 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# 💳 Visitekaartje
 
-# Titel
-Visitekaartje van Daan Korver
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Beschrijving
+![visitekaartje](assets/card.png)
+
 <!-- Voeg een link toe naar Github Pages 🌐-->
-Voor de introductie van fdnd kregen wij als klas de opdracht om allemaal individueel een visitekaartje te maken.  
+Voor de introductie van fdnd kregen wij als klas de opdracht om allemaal individueel een visitekaartje te maken. Ik heb gekozen voor een soort van credit card design omdat ik het simpel wou houden maar ook netjes als een soort kaartje. 
 [Live versie](http://www.daan.student.fdnd.nl)
 <!-- Voeg een mooie poster visual toe 📸 -->
-![visitekaartje](assets/card.png)
 
 ## Inhoudsopgave
 
 - [Titel](#titel)
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
-## Kenmerken
-
 ## Installatie
-Installatie via HTTPS  
 ```
 git clone https://github.com/DaanKorver/fdnd-visitekaartje-autonomous.git
+
 cd fdnd-visite-kaartje-autonomous
 ```
-En via SSH
-```
-git clone git@github.com:DaanKorver/fdnd-visitekaartje-autonomous.git
-cd fdnd-visite-kaartje-autonomous
-```
-Na het clonen openen met een liveserver.
-
-## Gebruik
-
-n.v.t.
-
 ## Bronnen
 Het brein van Daan - Daan 2021
 
